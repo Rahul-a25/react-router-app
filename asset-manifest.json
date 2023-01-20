@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-router-app/static/css/main.d5f070ea.css",
+    "main.js": "/react-router-app/static/js/main.c5db3df3.js",
+    "static/js/787.69c4871d.chunk.js": "/react-router-app/static/js/787.69c4871d.chunk.js",
+    "static/media/Products.jpg": "/react-router-app/static/media/Products.8c73f18ba9603bd9213c.jpg",
+    "static/media/Services.jpg": "/react-router-app/static/media/Services.aaf4eac9027b4f6b7892.jpg",
+    "static/media/Aboutus.jpg": "/react-router-app/static/media/Aboutus.9c7153aec94ffa68ab8b.jpg",
+    "static/media/backdrop.jpg": "/react-router-app/static/media/backdrop.2ea914259f43a7c3fcff.jpg",
+    "static/media/Contactus.jpg": "/react-router-app/static/media/Contactus.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/Logo.png": "/react-router-app/static/media/Logo.29e0225cc710cde10bad.png",
+    "index.html": "/react-router-app/index.html",
+    "main.d5f070ea.css.map": "/react-router-app/static/css/main.d5f070ea.css.map",
+    "main.c5db3df3.js.map": "/react-router-app/static/js/main.c5db3df3.js.map",
+    "787.69c4871d.chunk.js.map": "/react-router-app/static/js/787.69c4871d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f070ea.css",
+    "static/js/main.c5db3df3.js"
+  ]
+}
